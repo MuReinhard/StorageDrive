@@ -23,7 +23,7 @@ interface StorageInf
     public function get($key);
 
     /**
-     * @return mixed
+     * @return mixed1
      */
     public function clean();
 }
