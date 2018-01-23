@@ -15,8 +15,7 @@
   ],
   "require": {
     "php": ">=5.6.0",
-    "ext-gd": "*",
-    "shiogong/storagedrive": "dev-master"
+    "ext-gd": "*"
   },
   "autoload": {
     "psr-0": {
