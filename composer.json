@@ -1,0 +1,27 @@
+{
+  "name": "shiogong/StorageDrive",
+  "description": "StorageDrive-BaseModel",
+  "keywords": [
+    "own-system",
+    "StorageDrive"
+  ],
+  "homepage": "http://www.shiogong.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ShiOGong",
+      "email": "2607572176@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0",
+    "ext-gd": "*",
+    "shiogong/storagedrive": "dev-master"
+  },
+  "autoload": {
+    "psr-0": {
+      "StorageDrive\\": "src"
+    }
+  },
+  "minimum-stability": "stable"
+}
